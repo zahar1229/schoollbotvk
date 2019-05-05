@@ -1,0 +1,20 @@
+{
+  "name": "631",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "google": "^2.1.0",
+    "intl": "^1.2.5",
+    "node-vk-sdk": "^1.0.5",
+    "request": "^2.87.0",
+    "vk-io": "^4.0.0-beta.10",
+    "webshot": "^0.18.0"
+  }
+}
