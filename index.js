@@ -18,8 +18,8 @@ moment().format();
 const TOKEN = YOUR_TOKEN
 
 vk.setOptions({
-	token: f2a651dc27d8794f68887d7898155fc3c9e5fae45c92ebdfc0d5904a48fdee28e306170f7518332f7705a,
-	pollingGroupId: 176974582,
+	token: 26309188c448105969febcec3e0b42240d9e27ce2d01145bfa15bc08c4538d593b3049383a791aa972a75,
+	pollingGroupId: 191906475,
 	peer_id: 2000000001
 })
 
